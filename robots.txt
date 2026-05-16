@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mhoodmedia.github.io/notes-tz1yra/sitemap.xml
